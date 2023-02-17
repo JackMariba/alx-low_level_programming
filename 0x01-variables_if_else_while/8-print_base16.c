@@ -6,7 +6,7 @@
 int main(void)
 {
 	int i;
-	char hex[16] = "0123456789abcdef"
+	char hex[16] = "0123456789abcdef";
 	
 	for (i = 0; i < 16; i++)
 	{
