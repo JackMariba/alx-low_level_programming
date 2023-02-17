@@ -12,6 +12,6 @@ int main(void)
 	{
 		putchar(alpa[i]);
 	}
-	putchar('\n')
+	putchar('\n');
 	return (0);
 }
